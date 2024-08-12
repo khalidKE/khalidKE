@@ -6,6 +6,11 @@
 <span>
   <a href="https://www.linkedin.com/in/khalidelabd/"><img alt="LinkedIn" src="https://img.shields.io/badge/-0075b5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </span>
+<span>
+  <a href="https://codeforces.com/profile/khoulyo">
+    <img src="https://img.shields.io/badge/Codeforces-gray?style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces">
+  </a>
+</span>
 
 
 
