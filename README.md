@@ -18,7 +18,7 @@
 - 🌱 **I’m currently learning:** mobile app development.
 - 👯 **I’m looking to collaborate on:** exciting projects.
 - 🤔 **I’m looking for:** help with advanced app development techniques.
-- 💬 **Ask me about:** coding, problem-solving, front-end web development, or anything tech-related!
+- 💬 **Ask me about:** problem-solving, front-end web development,or anything tech-related!
 - 📫 **How to reach me:** https://www.linkedin.com/in/khalidelabd/
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I love solving coding puzzles and exploring new tech trends!
