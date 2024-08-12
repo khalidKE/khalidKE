@@ -23,4 +23,8 @@
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I love solving coding puzzles and exploring new tech trends!
 ---
-<a href="https://dewith.co/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=dewith&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewith&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+<a href="https://dewith.co/">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=khalidKE&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidKE&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+</a>
+
