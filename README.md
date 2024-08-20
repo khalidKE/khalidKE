@@ -1,7 +1,7 @@
 <h1 align="left"> Hey there, I'm Khalid 👋 </h1>
 
 <span>
-  <a href="mailto:rory.aa60@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-eb4336?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:khalidelabd.fcai.usc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-eb4336?style=flat-square&logo=Gmail&logoColor=white"></a>
 </span>
 <span>
   <a href="https://www.linkedin.com/in/khalidelabd/"><img alt="LinkedIn" src="https://img.shields.io/badge/-0075b5?style=flat-square&logo=Linkedin&logoColor=white"></a>
