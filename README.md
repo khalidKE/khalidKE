@@ -23,7 +23,6 @@
 - 🤔 **Seeking Assistance with:** Advanced app development techniques.
 - 💬 **Ask Me About:** Problem-solving, front-end web development, or anything tech-related!
 - 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/khalidelabd/), [Gmail](mailto:khalidelabd.fcai.usc@gmail.com)
-- 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I enjoy solving coding puzzles and staying updated on new tech trends!
 
 ---
