@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="250" align="right" alt="Coding GIF" />
 
 I'm **Khalid Elabd**, a Computer Science student at the Faculty of Computers and Artificial Intelligence, Sadat City University (Graduating 2026).
 
