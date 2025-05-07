@@ -41,6 +41,7 @@ I'm **Khalid Elabd**, a Computer Science student at the Faculty of Computers and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -63,22 +64,7 @@ I'm **Khalid Elabd**, a Computer Science student at the Faculty of Computers and
 
 ---
 
-## 🌟 Featured Skills
 
-<div align="center">
-
-| Skill | Rating |
-|-------|--------|
-| ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-007ACC?style=for-the-badge) | ⭐⭐⭐⭐⭐ |
-| ![Web Development](https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge) | ⭐⭐⭐⭐ |
-| ![Mobile Development](https://img.shields.io/badge/Mobile%20Development-3DDC84?style=for-the-badge) | ⭐⭐⭐ |
-| ![Data Structures](https://img.shields.io/badge/Data%20Structures-6DB33F?style=for-the-badge) | ⭐⭐⭐⭐ |
-| ![Algorithms](https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge) | ⭐⭐⭐⭐ |
-| ![Database Design](https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge) | ⭐⭐⭐ |
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
