@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Khalid+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
-  <p>
+<p>
   <a href="mailto:khalidelabd.fcai.usc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -14,7 +14,11 @@
   <a href="https://www.kaggle.com/khoulyo">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://discord.gg/jP9qfdWM">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
+
 
 
   <img src="https://komarev.com/ghpvc/?username=khalidKE&style=for-the-badge&color=blue" alt="Profile Views"/>
