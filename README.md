@@ -31,8 +31,7 @@
 
 
 
-  <img src="https://komarev.com/ghpvc/?username=khalidKE&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
+
 
 ---
 
