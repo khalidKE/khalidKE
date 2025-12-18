@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=khalidKE&style=for-the-badge&color=blue" />
+  <a href="https://committers.top/egypt/khalidKE">
+    <img src="https://user-badge.committers.top/egypt/khalidKE.svg" />
+  </a>
+</p>
 
 
 
