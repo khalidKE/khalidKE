@@ -17,7 +17,7 @@
   <a href="https://discord.gg/jP9qfdWM">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://khalidke.github.io/My-Website/">
+  <a href="https://khalidke.github.io/portfolio">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </p>
