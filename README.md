@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Khalid+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Khalid+%F0%9F%91%8B;Computer+Science+graduate;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
 <p>
   <a href="mailto:khalidelabd.fcai.usc@gmail.com">
@@ -38,7 +38,7 @@
 ## 🚀 About Me
 
 
-I'm **Khalid Elabd**, a Computer Science student at the Faculty of Computers and Artificial Intelligence, Sadat City University (Graduating 2026).
+I'm **Khalid Elabd**, a Computer Science graduate at the Faculty of Computers and Artificial Intelligence, Sadat City University (Graduating 2026).
 
 - 🔭 Currently focusing on my degree and expanding technical skills  
 - 🌱 Learning mobile app development and exploring new technologies  
